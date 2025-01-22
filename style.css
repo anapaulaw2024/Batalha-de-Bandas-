@@ -19,6 +19,26 @@ header {
   height: 2rem;
 
 }
+header a.info{
+  color:#EAA247;
+}
+button.inscrever{
+  display: flex;
+  flex-direction: column;
+  background-color: #A71F00;
+  width: 5.5rem;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  color: #fff;
+  border-style: none;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1rem;
+}
 
 img .banner {}
 
@@ -90,6 +110,9 @@ section.formulario{
   align-items: center;
   justify-content: center;
   background-color: #000;
+}
+label{
+  color:#8A8682 ;
 }
 footer{
   justify-content: center;
