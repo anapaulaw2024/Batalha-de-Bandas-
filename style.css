@@ -24,7 +24,7 @@ header {
   padding: 2.5rem;
   gap: 2.5rem;
   width: auto;
-  height: 5rem;
+  height: 3rem;
 
 }
 header a.info{
@@ -121,9 +121,10 @@ h2{
   text-align: center;
   color: #A71F00;
 }
-div.beneficio{
+div.beneficio h2{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  text-align: center
 }
 div.beneficio img{
   display: flex;
