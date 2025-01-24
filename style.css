@@ -20,8 +20,8 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: 50rem;
-  height: 2rem;
+  width: 200rem;
+  height: 5rem;
 
 }
 header a.info{
@@ -113,7 +113,7 @@ h2{
 }
 div.beneficio img{
   display: flex;
-  flex-direction; column;
+  flex-direction; row;
   justify-content: center;
   align-items: right;
   text-align: center;
