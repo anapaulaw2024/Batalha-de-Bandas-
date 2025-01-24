@@ -79,7 +79,7 @@ div.regras{
 
 section {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -109,7 +109,7 @@ p {
 }
 h2{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -124,13 +124,15 @@ div.beneficio img{
 }
 section.formulario{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   background-color: #000;
 }
-label{
-  color:#8A8682 ;
+form{
+  display: flex;
+  flex direction:row;
+  color:#8A8682;
 }
 footer{
   display: flex;
