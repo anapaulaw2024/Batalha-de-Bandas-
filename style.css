@@ -6,10 +6,9 @@
 
 body {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  width: 500rem;
   
 }
 
@@ -22,6 +21,7 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
+  width: 500rem;
   height: 5rem;
 
 }
