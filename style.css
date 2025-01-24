@@ -60,9 +60,9 @@ h1 {
   color: #fff;
   font-size: 2rem;
   font-family: Caveat, sans-serif;
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
+  align-items: normal;
+  justify-content: center;
+  text-align: normal;
 }
 div.regras{
   display: flex;
