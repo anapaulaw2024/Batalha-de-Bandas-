@@ -29,6 +29,8 @@ header {
 
 }
 header a info{
+  display: flex;
+  flex-direction: column;
   color:#EAA247;
 }
 button inscrever{
