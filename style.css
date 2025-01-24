@@ -64,6 +64,10 @@ h1 {
   justify-content: center;
   text-align: normal;
 }
+h2{
+  display: flex;
+  flex-direction:row;
+}
 div.regras{
   display: flex;
   flex-direction: row;
