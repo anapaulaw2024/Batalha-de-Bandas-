@@ -28,10 +28,10 @@ header {
   height: 5rem;
 
 }
-header a.info{
+header a info{
   color:#EAA247;
 }
-button.inscrever{
+button inscrever{
   display: flex;
   flex-direction: column;
   background-color: #A71F00;
