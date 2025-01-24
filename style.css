@@ -18,7 +18,7 @@ header {
   background-color: #000;
   color: #fff;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   text-align: right;
