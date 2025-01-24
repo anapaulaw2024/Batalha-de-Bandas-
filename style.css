@@ -52,7 +52,7 @@ border: none;
 
 h1 {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #000;
   color: #fff;
   font-size: 1rem;
@@ -61,6 +61,8 @@ h1 {
   justify-content: center;
 }
 div.regras{
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-items: center;
   color: #A71F00;
@@ -69,7 +71,7 @@ div.regras{
 
 section {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -99,7 +101,7 @@ p {
 }
 h2{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -114,7 +116,7 @@ div.beneficio img{
 }
 section.formulario{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-color: #000;
