@@ -33,7 +33,7 @@ button.inscrever{
   display: flex;
   flex-direction: column;
   background-color: #A71F00;
-  width: auto;
+  width: 5rem;
   height: 2.5rem;
   border-radius: 0.5rem;
   color: #fff;
@@ -72,7 +72,7 @@ div .regras h2{
 }
 div.regras{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-items: center;
   color: #A71F00;
@@ -150,7 +150,7 @@ form label{
 }
 form label input{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 2rem;
   height: 0.5rem;
 footer{
