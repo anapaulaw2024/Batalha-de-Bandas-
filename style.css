@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #312F2F;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -21,7 +22,7 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: 500rem;
+  width: 2rem;
   height: 5rem;
 
 }
@@ -135,9 +136,10 @@ label{
 }
 footer{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #312F2F;
   text-align: center;
+  height: 5rem;
 }
