@@ -6,8 +6,6 @@
 
 body {
   background-color: #312F2F;
-  display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: center;
   
@@ -119,7 +117,7 @@ h2{
 }
 div.beneficio img{
   display: flex;
-  flex-direction; row;
+  flex-direction; column;
   justify-content: center;
   align-items: right;
   text-align: center;
