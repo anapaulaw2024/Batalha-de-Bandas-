@@ -5,6 +5,8 @@
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -55,7 +57,7 @@ border: none;
 
 h1 {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   background-color: #000;
   color: #fff;
   font-size: 2rem;
@@ -114,6 +116,10 @@ h2{
   align-items: center;
   text-align: center;
   color: #A71F00;
+}
+div.beneficio{
+  display: flex;
+  flex-direction: row;
 }
 div.beneficio img{
   display: flex;
