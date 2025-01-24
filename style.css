@@ -10,7 +10,7 @@ body {
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
-  
+  width: auto;
 }
 
 header {
@@ -22,7 +22,7 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: 2rem;
+  width: auto;
   height: 5rem;
 
 }
@@ -33,7 +33,7 @@ button.inscrever{
   display: flex;
   flex-direction: column;
   background-color: #A71F00;
-  width: 5.5rem;
+  width: auto;
   height: 2.5rem;
   border-radius: 0.5rem;
   color: #fff;
@@ -48,7 +48,7 @@ button.inscrever{
 }
 
 img .banner {
-width: 5rem;
+width: auto;
 height:5rem;
 align-items: center;
 justify-content: center;
@@ -123,9 +123,9 @@ div.beneficio{
 }
 div.beneficio img{
   display: flex;
-  flex-direction; column;
+  flex-direction; row;
   justify-content: center;
-  align-items: right;
+  align-items: center;
   text-align: center;
 }
 section.formulario{
@@ -147,15 +147,15 @@ form label{
 form label input{
   display: flex;
   flex-direction: column;
-  width: 3rem;
+  width: auto;
   height: 2rem;
 footer{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   background-color: #312F2F;
   text-align: center;
   height: 5rem;
-  width: 10rem;
+  width: auto;
 }
