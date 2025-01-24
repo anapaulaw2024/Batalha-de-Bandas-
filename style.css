@@ -9,6 +9,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 500rem;
+  
 }
 
 header {
@@ -20,8 +22,6 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: 200rem;
-  height: 5rem;
 
 }
 header a.info{
