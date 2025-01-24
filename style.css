@@ -28,12 +28,12 @@ header {
   height: 5rem;
 
 }
-header a .info{
+header a info{
   display: flex;
   flex-direction: column;
   color:#EAA247;
 }
-button .inscrever{
+button inscrever{
   display: flex;
   flex-direction: column;
   background-color: #A71F00;
@@ -50,7 +50,7 @@ button .inscrever{
   font-size: 1rem;
 }
 
-img .banner {
+img banner {
 width: auto;
 height:5rem;
 align-items: center;
@@ -70,7 +70,7 @@ h1 {
   text-align: center;
 }
 
-div.regras{
+div regras{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -90,7 +90,7 @@ section {
   
 }
 
-section div.info {
+section div info {
   color: #A71F00;
   display: flex;
   flex-direction: column;
@@ -130,14 +130,14 @@ div.beneficio h2{
   flex-direction: row;
   text-align: center
 }
-div.beneficio img{
+div beneficio img{
   display: flex;
   flex-direction; column;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
-section.formulario{
+section formulario{
   align-items: center;
   justify-content: center;
   background-color: #000;
