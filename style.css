@@ -59,11 +59,10 @@ h1 {
   font-size: 1rem;
   font-family: Caveat, sans-serif;
   align-items: center;
-  justify-content: center;
 }
 div.regras{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-items: center;
   color: #A71F00;
@@ -110,7 +109,7 @@ h2{
 }
 div.beneficio img{
   display: flex;
-  flex-direction; row;
+  flex-direction; column;
   justify-content: center;
   align-items: right;
   text-align: center;
