@@ -57,6 +57,8 @@ border: none;
 }
 
 h1 {
+  display: flex;
+  flex-direction: column;
   background-color: #000;
   color: #fff;
   font-size: 2rem;
@@ -67,6 +69,8 @@ h1 {
 }
 
 div.regras{
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-items: center;
   color: #A71F00;
@@ -74,6 +78,8 @@ div.regras{
 }
 
 section {
+  display: flex;
+  flex-direction: column;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -82,6 +88,8 @@ section {
 
 section div.info {
   color: #A71F00;
+  display: flex;
+  flex-direction: column;
   font-family: Inter, sans-serif;
   font-size: 1rem;
   padding: 2rem;
@@ -89,12 +97,16 @@ section div.info {
   justify-content: center;
 }
 section div.info h2{
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items- center;
   text-align: center;
 }
 
 p {
+  display: flex;
+  flex-direction: column;
   color: #8A8682;
   font-size: 1rem;
   padding: 2rem;
@@ -102,7 +114,8 @@ p {
   justify-content: center;
 }
 h2{
-  
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -110,7 +123,7 @@ h2{
 }
 div.beneficio{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 div.beneficio img{
   display: flex;
@@ -136,7 +149,7 @@ form label input{
   height: 0.5rem;
 footer{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #312F2F;
