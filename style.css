@@ -20,7 +20,7 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: auto;
+  width: 50rem;
   height: 2rem;
 
 }
@@ -66,7 +66,7 @@ h1 {
 }
 div.regras{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-items: center;
   color: #A71F00;
