@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   width: auto;
-  height: 10rem;
+  height: 5rem;
 }
 
 header {
@@ -76,6 +76,8 @@ div.regras{
   color: #A71F00;
   font-family: Caveat, sans-serif;
 }
+ul{
+  list-style: none;
 
 section {
   display: flex;
