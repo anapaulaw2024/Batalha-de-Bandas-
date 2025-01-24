@@ -68,11 +68,11 @@ h1 {
 }
 div .regras h2{
   display: flex;
-  flex-direction:row;
+  flex-direction: column;
 }
 div.regras{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-items: center;
   color: #A71F00;
