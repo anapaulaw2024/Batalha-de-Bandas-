@@ -11,6 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   width: auto;
+  height: auto;
 }
 
 header {
@@ -21,10 +22,10 @@ header {
   align-items: center;
   justify-content: center;
   text-align: right;
-  padding: 2rem;
+  padding: 1.5rem;
   gap: 2rem;
   width: auto;
-  height: 3rem;
+  height: 5rem;
 
 }
 header a.info{
@@ -64,7 +65,7 @@ h1 {
   font-family: Caveat, sans-serif;
   align-items: normal;
   justify-content: center;
-  text-align: left;
+  text-align: center;
 }
 
 div.regras{
