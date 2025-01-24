@@ -137,11 +137,13 @@ form{
 }
 form label{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 form label input{
   display: flex;
   flex-direction: column;
+  width: 3rem;
+  height: 2rem;
 footer{
   display: flex;
   flex-direction: column;
@@ -150,4 +152,5 @@ footer{
   background-color: #312F2F;
   text-align: center;
   height: 5rem;
+  width: 10rem;
 }
