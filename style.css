@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 
-body {}
+body {
+width: 50rem;}
 
 header {
   background-color: #000;
@@ -15,7 +16,7 @@ header {
   justify-content: right;
   padding: 2.5rem;
   gap: 2.5rem;
-  width: 30rem;
+  width: auto;
   height: 2rem;
 
 }
