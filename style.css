@@ -51,11 +51,13 @@ button inscrever{
 }
 
 img .banner {
-width: 50px;
-height:5rem;
-align-items: center;
-justify-content: center;
-border: none;
+  width: 10rem;
+  height: 10rem;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  gap: 2rem;
+
 }
 
 h1 {
@@ -68,9 +70,10 @@ h1 {
   align-items: normal;
   justify-content: center;
   text-align: center;
+  gap: 2rem,;
 }
 
-div regras{
+div .regras{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -142,12 +145,12 @@ div.beneficio h2{
 }
 div .beneficio img{
   display: flex;
-  flex-direction; column;
-  justify-content: center;
+  flex-direction; row;
+  justify-content: space-around;
   align-items: center;
   text-align: center;
-  width: 20px;
-  height: 20px;
+  width: 2rem;
+  height: 2rem;
 }
 section formulario{
   align-items: center;
