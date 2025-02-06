@@ -50,8 +50,8 @@ button inscrever{
   font-size: 1rem;
 }
 
-img banner {
-width: auto;
+img .banner {
+width: 50px;
 height:5rem;
 align-items: center;
 justify-content: center;
