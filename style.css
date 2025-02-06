@@ -80,6 +80,12 @@ div regras{
 }
 ul{
   list-style: none;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  padding: 1rem;
+  gap: 1rem;
+}
 
 section {
   display: flex;
