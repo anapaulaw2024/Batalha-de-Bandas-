@@ -130,7 +130,7 @@ div.beneficio h2{
   flex-direction: row;
   text-align: center
 }
-div beneficio img{
+div .beneficio img{
   display: flex;
   flex-direction; row;
   justify-content: center;
