@@ -137,7 +137,8 @@ h2{
 div.beneficio h2{
   display: flex;
   flex-direction: row;
-  text-align: center
+  text-align: center;
+  justify-content: center;
 }
 div .beneficio img{
   display: flex;
