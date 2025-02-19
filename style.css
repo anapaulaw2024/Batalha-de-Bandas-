@@ -6,6 +6,7 @@
 
 body {
   display: flex;
+  flex-direction: row;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -17,7 +18,7 @@ header {
   background-color: #000;
   color: #fff;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   text-align: right;
@@ -50,6 +51,7 @@ button.inscrever{
 }
 
 img.banner {
+  display: flex;
   width: 70rem;
   height: 50rem;
   align-items: center;
@@ -79,12 +81,14 @@ div.regras{
   align-items: left;
 }
 div.regras p{
+  display: flex;
   padding: 1rem;
   justify-content: center;
   text-align: center;
   align-items: center;
 }
 ul li{
+  display: flex;
   list-style: none;
   align-items: center;
   justify-content: center;
@@ -111,7 +115,8 @@ section div.info {
 section div.info h2{
   display: flex;
 }
-p .informacao{
+p.informacao{
+  display: flex;
   font-size: 2rem;
 }
 
@@ -146,6 +151,7 @@ div.beneficio img{
   justify-content: center;
 }
 section formulario{
+  display: flex;
   align-items: center;
   justify-content: center;
   background-color: #000;
