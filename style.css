@@ -6,7 +6,6 @@
 
 body {
   display: flex;
-  flex-direction: column;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -73,7 +72,6 @@ h1 {
 
 div.regras{
   display: flex;
-  flex-direction: column;
   color: #A71F00;
   font-family: Caveat, sans-serif;
   text-align: left;
@@ -144,6 +142,8 @@ div.beneficio h2{
   justify-content: center;
 }
 div.beneficio img{
+  display: flex;
+  flex-direction; column;
   width: 2rem;
   height: 2rem;
 }
