@@ -57,6 +57,7 @@ img.banner {
   justify-content: center;
   border: none;
   gap: 2rem;
+  padding: 2rem;
 
 }
 
@@ -69,7 +70,6 @@ h1 {
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 div.regras{
