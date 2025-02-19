@@ -10,8 +10,8 @@ body {
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 100%;
 }
 
 header {
@@ -24,16 +24,16 @@ header {
   text-align: right;
   padding: 1.5rem;
   gap: 2rem;
-  width: 105rem;
+  width: 100%;
   height: 5rem;
 
 }
-header a info{
+header a.info{
   display: flex;
   flex-direction: column;
   color:#EAA247;
 }
-button inscrever{
+button.inscrever{
   display: flex;
   flex-direction: column;
   background-color: #A71F00;
@@ -51,8 +51,8 @@ button inscrever{
 }
 
 img.banner {
-  width: 10rem;
-  height: 10rem;
+  width: 7rem;
+  height: 7rem;
   align-items: center;
   justify-content: center;
   border: none;
@@ -62,18 +62,16 @@ img.banner {
 
 h1 {
   display: flex;
-  flex-direction: row;
   background-color: #000;
   color: #fff;
   font-size: 2rem;
-  font-family: Caveat, sans-serif;
+  font-family: sans-serif;
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 2rem;
 }
 
-div .regras{
+div.regras{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -100,7 +98,7 @@ section {
   
 }
 
-section div .info {
+section div.info {
   color: #A71F00;
   display: flex;
   flex-direction: column;
@@ -137,11 +135,11 @@ h2{
 }
 div.beneficio h2{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   text-align: center;
   justify-content: center;
 }
-div .beneficio img{
+div.beneficio img{
   width: 2rem;
   height: 2rem;
 }
