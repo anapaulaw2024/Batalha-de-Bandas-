@@ -50,7 +50,7 @@ button inscrever{
   font-size: 1rem;
 }
 
-img .banner {
+img.banner {
   width: 10rem;
   height: 10rem;
   align-items: center;
