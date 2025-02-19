@@ -84,6 +84,9 @@ div.regras{
 }
 div.regras p{
   padding: 1rem;
+  justify-content: right;
+  text-align: right;
+  align-items: right;
 }
 ul li{
   list-style: none;
