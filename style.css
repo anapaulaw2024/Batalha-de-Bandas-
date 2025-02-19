@@ -76,9 +76,9 @@ div.regras{
   flex-direction: column;
   color: #A71F00;
   font-family: Caveat, sans-serif;
-  text-align: right;
-  justify-content: right;
-  align-items: right;
+  text-align: left;
+  justify-content: left;
+  align-items: left;
 }
 div.regras p{
   padding: 1rem;
