@@ -17,7 +17,7 @@ header {
   background-color: #000;
   color: #fff;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: right;
@@ -132,7 +132,6 @@ h2{
 }
 div.beneficio h2{
   display: flex;
-  flex-direction: column;
   text-align: center;
   justify-content: center;
   padding: 2rem;
@@ -141,7 +140,6 @@ div.beneficio h2{
 }
 div.beneficio img{
   display: flex;
-  flex-direction; column;
   width: 2rem;
   height: 2rem;
   align-items: center;
@@ -155,17 +153,14 @@ section formulario{
 form{
   color:#8A8682;
   display: flex;
-  flex-direction: column;
   font-size: 1rem;
 }
 form label input{
   display: flex;
-  flex-direction: row;
   width: 2rem;
   height: 0.5rem;
 footer{
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #000;
