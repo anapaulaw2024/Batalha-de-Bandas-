@@ -76,7 +76,7 @@ div.regras{
   flex-direction: column;
   color: #A71F00;
   font-family: Caveat, sans-serif;
-  text-align: center;
+  text-align: right;
   justify-content: right;
   align-items: right;
 }
