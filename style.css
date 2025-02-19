@@ -74,13 +74,11 @@ h1 {
 div.regras{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-items: right;
   color: #A71F00;
   font-family: Caveat, sans-serif;
   text-align: center;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
 }
 div.regras p{
   padding: 1rem;
