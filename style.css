@@ -29,7 +29,7 @@ header {
 }
 header a.info{
   display: flex;
-  flex-direction: column;
+  flex-direction:column,
   color:#EAA247;
 }
 button.inscrever{
@@ -93,7 +93,6 @@ ul li{
 
 section {
   display: flex;
-  flex-direction: column;
   background-color: #312F2F;
   align-items: center;
   justify-content: center;
@@ -103,7 +102,6 @@ section {
 section div.info {
   color: #A71F00;
   display: flex;
-  flex-direction: column;
   font-family: Inter, sans-serif;
   font-size: 2.5rem;
   padding: 2rem;
@@ -112,7 +110,6 @@ section div.info {
 }
 section div.info h2{
   display: flex;
-  flex-direction: column;
 }
 p .informacao{
   font-size: 2rem;
@@ -120,7 +117,6 @@ p .informacao{
 
 p {
   display: flex;
-  flex-direction: column;
   color: #8A8682;
   font-size: 1rem;
   padding: 2rem;
@@ -129,7 +125,6 @@ p {
 }
 h2{
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
