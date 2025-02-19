@@ -82,6 +82,9 @@ div.regras{
   justify-content: center;
   align-items: center;
 }
+div.regras p{
+  padding: 1rem;
+}
 ul li{
   list-style: none;
   align-items: center;
